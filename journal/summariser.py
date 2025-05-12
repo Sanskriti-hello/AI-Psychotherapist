@@ -1,5 +1,6 @@
 from transformers import pipeline
 import pandas as pd
+import os
 
 class Summarizer:
     def __init__(self, entries_df):

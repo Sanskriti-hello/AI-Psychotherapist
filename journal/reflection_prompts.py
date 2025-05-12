@@ -1,4 +1,5 @@
 import random
+import os
 
 class ReflectionPrompts:
     def __init__(self):

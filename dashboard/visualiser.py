@@ -1,6 +1,8 @@
 import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pandas as pd
+import os
 
 def plot_distortion_counts(distortion_counter):
     df = pd.DataFrame.from_dict(distortion_counter, orient='index', columns=['Count'])
