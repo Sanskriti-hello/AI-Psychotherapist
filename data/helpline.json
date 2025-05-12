@@ -1,0 +1,18 @@
+{
+    "USA": {
+      "suicide_prevention": "1-800-273-TALK",
+      "domestic_violence": "1-800-799-SAFE",
+      "child_abuse": "1-800-4-A-CHILD"
+    },
+    "India": {
+      "suicide_prevention": "91-22-2772 6771",
+      "domestic_violence": "181",
+      "child_abuse": "1098"
+    },
+    "UK": {
+      "suicide_prevention": "116 123",
+      "domestic_violence": "0808 2000 247",
+      "child_abuse": "0808 800 5000"
+    }
+  }
+  
