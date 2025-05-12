@@ -1,4 +1,7 @@
 import streamlit as st
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from agents.cbt_agent import CBTAgent
 from journal.entry_handler import load_entries, save_entry
 from dashboard.visualizer import plot_distortion_counts, plot_emotion_trends
